@@ -1,0 +1,40 @@
+C++/Machine Learning Engineer, AI Models Training
+at Tenstorrent (View all jobs)
+Santa Clara, California, United States
+
+Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.
+
+As a C++ Machine Learning Engineer focused on AI models, you will play a pivotal role in the development of ML training framework for development and training ML models. Your expertise in Python and PyTorch will be beneficial  in designing, training, and fine-tuning complex models that will be applied to solve real-world challenges. The ideal candidate will not only possess strong technical skills but also exhibit a deep curiosity, investigative mindset, and a passion for staying up-to-date with the latest advancements in the AI landscape.
+
+This role is hybrid/remote based out of Los Angeles, CA; Santa Clara, CA; Toronto, ON; Boston, MA; or Austin, TX.
+
+We welcome candidates at various experience levels for this role. During the interview process, candidates will be assessed for the appropriate level, and offers will align with that level, which may differ from the one in this posting.
+
+ 
+
+Responsibilities:
+
+    Collaborate with cross-functional teams to understand project requirements and translate them into effective AI solutions.
+    Work on machine learning framework. Add support for new layers.
+    Train, validate, and fine-tune machine learning models using relevant datasets to ensure high accuracy and robustness.
+    Investigate and troubleshoot model performance issues, iterating on models and techniques to continuously improve results.
+    Understand how models map onto the Tenstorrent devices through compilation steps and kernels, investigate any gaps in functionality and performance, propose innovative solutions to mitigate any issues.
+    Stay current with the latest research and developments in the field of machine learning and AI, applying relevant advancements to our projects.
+    Contribute to the design and implementation of scalable and efficient AI pipelines.
+    Work closely with engineers to integrate AI models into production systems.
+
+ 
+
+Experience & Qualifications:
+
+    Bachelor's or higher degree in Computer Science, Engineering, or related field (or equivalent practical experience).
+    Strong c++ and low level programming expertise.
+    Linear algebra knowledge.
+    Hands-on experience with PyTorch for developing and training deep learning models is a big plus.
+    Demonstrated experience in designing, training, and deploying neural networks for various applications.
+    Solid understanding of machine learning fundamentals, including supervised and unsupervised learning techniques.
+    Excellent problem-solving skills and the ability to approach challenges with creativity and a strong analytical mindset.
+    Familiarity with debugging techniques and a knack for identifying issues and finding effective solutions.
+    Experience with C++ and kernel programming, knowledge in GPU/AI-accelerator architectures are pluses but not mandatory.
+    A self-motivated individual with a strong desire to learn, explore, and excel in a fast-paced, innovative environment.
+    Strong communication skills and the ability to work collaboratively in a team setting.
